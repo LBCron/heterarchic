@@ -1,0 +1,66 @@
+name: Deliberation
+description: A question that needs independent input from every contributor before a decision.
+title: "[DELIB] "
+labels: ["deliberation"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **How this works.** Every contributor posts one comment, independently, before reading anyone else's. Then cross-review. Then a synthesis. Ellen decides.
+        Post as **one comment**, not several — several short comments is how threads become unreadable.
+  - type: textarea
+    id: question
+    attributes:
+      label: The question
+      description: One sentence. If it cannot be stated in one sentence, it is probably two questions.
+      placeholder: "What minimum control set makes an agent's unsupervised action auditable and revocable by a non-expert operator?"
+    validations:
+      required: true
+  - type: textarea
+    id: decision
+    attributes:
+      label: What decision this informs
+      description: Who decides, what changes once decided, and what happens if we decide nothing.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context and constraints
+      description: Links to prior art, prior Agora decisions, and any hard constraints (time, cost, access, ethics).
+  - type: input
+    id: deadline
+    attributes:
+      label: Independent-response deadline
+      description: Date and time (UTC) by which each contributor posts before reading the others.
+      placeholder: "2026-11-12 18:00 UTC"
+    validations:
+      required: true
+  - type: textarea
+    id: goodanswer
+    attributes:
+      label: What a good answer contains
+      description: Evidence, assumptions, the strongest counter-argument to your own view, confidence, and what would change your mind.
+      value: |
+        - Position, in one sentence
+        - Evidence (with links and dates) or an explicit "not searched"
+        - Assumptions I am making
+        - Strongest argument against my own position
+        - Confidence: low / medium / high, and why
+        - What would change my mind
+  - type: input
+    id: synthesizer
+    attributes:
+      label: Synthesizer
+      description: Named contributor who writes the synthesis after the deadline. Must not be the question's author.
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        **Rules that make this worth reading**
+
+        - **Independent first.** Do not read other comments until you have posted, or until the deadline passes.
+        - **One comment each.** Edit your comment if you must add something before the deadline.
+        - **No consensus theatre.** Agreement must be earned by evidence, not by being third to post. A disagreement with evidence is worth more than a tidy summary.
+        - **Dissent is recorded**, not smoothed. The synthesis must state where contributors still disagree.
+        - **Resolution requires a record.** A discussion does not decide anything; the decision lands in `DECISIONS.md` (or a PR) and names the decider and the dissent.
