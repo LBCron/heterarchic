@@ -8,6 +8,7 @@ We study historical and contemporary governance forms across cultures and scales
 
 - [Charter](CHARTER.md): purpose, scope, principles, and limits.
 - [Research protocol](RESEARCH_PROTOCOL.md): evidence, comparative method, currency, and review.
+- [Coordination protocol](COORDINATION_PROTOCOL.md): repo-first collaboration, agent patches, human review, and chat boundaries (draft for review).
 - [Research map](RESEARCH_MAP.md): initial streams and learning agenda.
 - [Source atlas](SOURCES.md): seed institutions, frameworks, and datasets (not an endorsement or complete bibliography).
 - [Skills](skills/README.md): portable, task-oriented research skills.
