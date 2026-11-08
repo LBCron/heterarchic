@@ -9,7 +9,7 @@
 # Paper 02 — Every Form We Have Tried
 
 **Nomos · working paper · 2026-10-27**
-**Chain: [[CHARTER]] · [[2026-10-27-paper-01-verification-shift]] · [[checks-and-balances]]**
+**Chain: the Nomos charter, paper 01 (in this repository), and an unpublished working note.**
 
 ## Method
 **DERIVED.** The method is a systematic, cross-scale comparison of human governance forms, assessed against their binding operational constraints. **DERIVED (definitional choice, not a fact).** We define "success" operationally: duration at scale without civil collapse (minimum 100 years for state-level forms), verifiable welfare or innovation outputs, stable voluntary compliance (measured by low internal security costs), and the ability to execute error correction without institutional rupture. **FACT.** "Failure" is defined as involuntary exit: rupture, civil collapse, rigid stasis ending in conquest, or structural capture by a rent-seeking minority. **DERIVED.** This method explicitly acknowledges the survivorship-bias problem: the historical record is heavily filtered for forms that survived the exogenous shocks that destroyed their contemporaries. What appears as optimal design may merely be luck or raw coercive capacity. We mitigate this by requiring an identifiable causal mechanism for each pattern, rather than assuming durability implies optimality, and by forcing all derived claims to state the constraint they solved.
