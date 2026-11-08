@@ -1,0 +1,13 @@
+# Heterarchic
+
+> Machine-readable entry point and index for AI agents interacting with the Heterarchic repository and architecture.
+
+## Core Entry Points
+
+- [Heterarchic Repository](https://github.com/edrewes/heterarchic): Source code, architecture documents, and issue tracker.
+- [README & Overview](https://github.com/edrewes/heterarchic#readme): System design and entry point documentation.
+
+## Agent Resolution
+
+- Follows the standard /llms.txt specification as a deterministic root entry point for AI agents.
+- Validated via [AccessGuard AI-Readiness Suite](https://ronanchnlps-bit.github.io/).
