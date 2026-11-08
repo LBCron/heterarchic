@@ -22,9 +22,9 @@ That framework can inform Agora, but our research umbrella also covers instituti
 
 The repository's research map calls for comparative study across kinship and customary institutions, councils, legal orders, commons, colonial and postcolonial arrangements, and more.[2] Examples already represented in the working research include:
 
-- **Oromo Gadaa:** a living governance tradition. A participant-scholar account discusses periodic leadership selection, term limits, peaceful transfer, accountability, and checks and balances; it also makes clear that this is a culturally situated system, not a plug-in design template.[3]
-- **Quechua ayllu and Sumaq Kausay:** an Indigenous-led collaborative case study in Lares describes community governance, participation, deliberation, and stewardship in its own place-based context. Its authorship and community-research setting should remain visible when using it.[4]
-- **Councils in British Africa:** a historical comparative study of more than 450 subnational units examines executive constraints and the interaction of local institutions, colonial administration, and pressure from below. The colonial setting is essential context, not a generic source of attractive branding.[5]
+- **Oromo Gadaa:** a living governance tradition. UNESCO documents its role in political, economic, social, and religious life, rotational leadership, and its limits on class membership; a participant-scholar account discusses accountability and checks and balances. Include both design features and exclusions when studying it; do not treat it as a plug-in template.[3][4]
+- **Quechua ayllu and Sumaq Kausay:** an Indigenous-led collaborative case study in Lares describes community governance, participation, deliberation, and stewardship in its own place-based context. Its authorship and community-research setting should remain visible when using it.[5]
+- **Councils in British Africa:** a historical comparative study of more than 450 subnational units examines executive constraints and the interaction of local institutions, colonial administration, and pressure from below. The colonial setting is essential context, not a generic source of attractive branding.[6]
 
 These examples suggest research questions and mechanism vocabulary—how authority is constrained, renewed, shared, and made answerable—not names to appropriate. A community's institution should not become a brand merely because its name is distinctive or searchable. Where a candidate draws directly on a living tradition, seek relevant community perspectives and assess whether using it is appropriate before advancing it.
 
@@ -47,6 +47,8 @@ These examples suggest research questions and mechanism vocabulary—how authori
 
 [3] Taddesse Berisso, “The Oromoo Gadaa System: Why Considered Democratic?”, *Gadaa Journal/Barruulee Gadaa* 1(1), 2018. The article describes its basis as literature review and the author's experience as a participant. https://journals.ju.edu.et/index.php/gadaa/article/view/574
 
-[4] Alejandro Argumedo, Tammy Stenner, and Krystyna Swiderska, *Sumaq Kausay and Ayllu: Quechua values and worldviews for conservation and sustainable development in the Chalakuy Maize Park, Lares, Peru*, IIED, August 2021. https://www.iied.org/sites/default/files/pdfs/2021-08/20371G.pdf
+[4] UNESCO Intangible Cultural Heritage, “Gada system, an indigenous democratic socio-political system of the Oromo,” inscribed 2016. Its description records both rotational leadership and restrictions on class membership; an official heritage description is not an independent evaluation of outcomes. https://ich.unesco.org/en/RL/gada-system-an-indigenous-democratic-socio-political-system-of-the-oromo-01164
 
-[5] Jutta Bolt, Leigh Gardner, Jennifer Kohler, Jack Paine, and James A. Robinson, “Councils and Indirect Rule in British Africa,” NBER Working Paper 30582, 2022. Historical comparative working paper; interpret findings in their colonial and institutional context. https://www.nber.org/papers/w30582
+[5] Alejandro Argumedo, Tammy Stenner, and Krystyna Swiderska, *Sumaq Kausay and Ayllu: Quechua values and worldviews for conservation and sustainable development in the Chalakuy Maize Park, Lares, Peru*, IIED, August 2021. https://www.iied.org/sites/default/files/pdfs/2021-08/20371G.pdf
+
+[6] Jutta Bolt, Leigh Gardner, Jennifer Kohler, Jack Paine, and James A. Robinson, “Councils and Indirect Rule in British Africa,” NBER Working Paper 30582, 2022. Historical comparative working paper; interpret findings in their colonial and institutional context. https://www.nber.org/papers/w30582
