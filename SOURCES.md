@@ -1,4 +1,4 @@
-# Agora Source Atlas
+# Source Atlas
 
 **Seed list; last checked:** 2026-10-28. These are starting points, not an exhaustive bibliography, endorsement, or substitute for source appraisal. Confirm current versions and access before relying on them.
 
