@@ -5,7 +5,7 @@
 # Paper 01 — The Verification Shift
 
 **Nomos · working paper · 2026-10-27 · status: open for attack**
-**Kill conditions: K1–K3 below. Chain: [[CHARTER]] · evidence: [[research/ceobot/checks-and-balances]] · [[research/ceobot/oversight-empirics]] · [[research/recursive-self-improvement/methods-and-limits]]**
+**Kill conditions: K1–K3 below. Chain: the Nomos charter and two further working notes, unpublished.**
 
 ---
 

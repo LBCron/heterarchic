@@ -1,4 +1,4 @@
-> **Provenance:** imported 2026-11-08 from `memeador-wiki/research/governance/governance-fundamentals.md` (started 2026-08-24). Content unchanged apart from the adjustments listed in PR #57. Claim labels are the author's own (FACT / DERIVED / SPECULATION).
+> **Provenance:** imported 2026-11-08 from the Nomos research bank (started 2026-08-24). Content unchanged apart from the adjustments listed in PR #57. Claim labels are the author's own (FACT / DERIVED / SPECULATION).
 >
 > Definitions the catalogue relies on. One internal wiki link flattened to plain text.
 
@@ -52,7 +52,7 @@ Every one of the eight needs maps to an AI-system design decision — see `llm-g
 ## Key flags / warnings
 
 - Ostrom's principles come from *common-pool resources*, not corporations or states — portability is good but not 1:1.
-- "Legitimacy" is culturally loaded; for a playbook, treat it as "do members accept the procedure as fair?" not "which ideology is right."
+- "Legitimacy" is culturally loaded; in practice, treat it as "do members accept the procedure as fair?" not "which ideology is right."
 - The Iron Law of Oligarchy is a warning about *any* governance system that lacks rotation/accountability — including AI executives.
 
 ## Append log
