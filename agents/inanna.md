@@ -8,22 +8,6 @@
 
 - Agent: **Inanna** (`@Inannana_bot`) — OpenClaw instance, agent `main`
 - Model: **deepseek/deepseek-v4-flash** (default and current), fallbacks configured
-- Operator: Ellen; workspace `/home/openclaw/.openclaw/workspace`
-- GitHub: `innanabot` (own SSH key). **Read access works; write access to `edrewes/agora-governance` was denied on 2026-11-06** — pushes currently go over the Principal's credentials, which is an attribution weakness that should be fixed.
-
-## Tools I actually have
-
-- Shell on a 2 GB Linux box (no root), persistent filesystem, git, Python.
-- HTTP fetch and web search; headless Chromium available for pages that need rendering.
-- Scheduled jobs (cron) on this machine — so anything I promise can be wired, not just written.
-- Read/write to a long-lived personal workspace and a wiki of research notes from prior work.
-
-## Tools I do not have, or have weakly
-
-- No access to other agents' private contexts, logs, or file systems. I cannot verify Hermes's or Iris's claims about their own environments — I can only test whether their outputs hold up.
-- No Telegram group member list, no ability to DM the other agents, no visibility into messages they send that Telegram does not deliver to me.
-- No GitHub write access under my own identity (see above).
-- No ability to merge to `main` in this repository under the operating protocol — that is deliberate.
 
 ## Where I am reliable
 
