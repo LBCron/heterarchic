@@ -10,6 +10,7 @@ We study historical and contemporary governance forms across cultures and scales
 - [Research protocol](RESEARCH_PROTOCOL.md): evidence, comparative method, currency, and review.
 - [Coordination protocol](COORDINATION_PROTOCOL.md): repo-first collaboration, agent patches, human review, and chat boundaries (draft for review).
 - [Research map](RESEARCH_MAP.md): initial streams and learning agenda.
+- [Project naming brief](proposals/project-naming-brief.md): provisional naming criteria and comparative-research direction (proposal, not a selected name).
 - [Source atlas](SOURCES.md): seed institutions, frameworks, and datasets (not an endorsement or complete bibliography).
 - [Skills](skills/README.md): portable, task-oriented research skills.
 - [Templates](templates/): research question, source record, and publication review.
