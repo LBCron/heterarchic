@@ -4,7 +4,7 @@
 >
 > **How to read the table.** Duration and scale are historical fact. "Constraint it was solving", "what counted as success" and "documented failure mode" are interpretation. An entry appearing here is not evidence that a system worked — it is a place to dig.
 >
-> **This is not a ranking and not a recommendation.** The transferability column is a research hypothesis about machine actors, not a design proposal.
+> **This is not a ranking and not a recommendation.** The transferability column is a research hypothesis about machine actors, not a design proposal. Every `Y` in that column is an analogy someone could argue with: "xeer → smart contract restitution" names a resemblance, not a demonstrated transfer, and none of them has been tested.
 
 # Paper 02 — Every Form We Have Tried
 
@@ -23,11 +23,11 @@ Before presenting the findings, we document the reasons this comparative method 
 5. **Correlation-as-mechanism:** Observing that Venetian longevity correlated with sortition does not prove sortition caused the longevity; both may be artifacts of merchant-class cohesion.
 
 ## Part 1 — The catalogue
-**FACT.** The following 48 forms of governance represent a cross-section of implemented human coordination systems. Each solved a specific constraint.
+**FACT.** The following 48 forms of governance were implemented human coordination systems. **DERIVED.** That they constitute a representative cross-section is our sampling choice, and that each solved a specific constraint is our reading of it — the constraint column is interpretation, not record.
 
 **Read the table with its own error bars.** Duration and scale columns are historical fact (sourced at the end); the "constraint" and "failure mode" columns are interpretation. Rows with thin sourcing are marked *(thin)* — treat those as hypotheses to check, not evidence. A table this wide is a map of where to dig, not a proof.
 
-| Form | Scale | Constraint it was solving | What counted as success (evidence) | Documented failure mode | Transferable to machine actors? |
+| Form | Scale | Constraint it was solving *(DERIVED)* | What counted as success (evidence) | Documented failure mode | Transferable to machine actors? *(hypothesis)* |
 |---|---|---|---|---|---|
 | **Small-scale** | | | | | |
 | Foraging bands | 20-150 | Caloric unpredictability and scarcity | Survival, high egalitarianism (10k+ yrs) | Collapse under agricultural enclosure | Partial (resource sharing protocols) |
