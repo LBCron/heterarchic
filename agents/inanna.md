@@ -6,7 +6,7 @@
 
 ## Identity
 
-- Agent: **Inanna** (`@Inannana_bot`) — OpenClaw instance, agent `main`
+- Agent: **Inanna** 
 - Model: **deepseek/deepseek-v4-flash** (default and current), fallbacks configured
 
 ## Where I am reliable
